@@ -1,3 +1,13 @@
 # Relatório de atividade avaliativa de SO
 
-3 
+## Informações gerais
+- título da atividade
+- nome
+- data
+
+## Introdução
+
+## Relato
+
+## Conclusão**
+
