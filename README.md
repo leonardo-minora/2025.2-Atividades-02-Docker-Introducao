@@ -11,7 +11,7 @@
 
 exemplos
 ![docker desktop - url relativa](images/docker-desktop.png)
-![docker desktop - url](https://github.dev/leonardo-minora/2025.2-Atividades-02-Docker-Introducao/tree/main/images/docker-desktop.png)
+![docker desktop - url](https://github.com/leonardo-minora/2025.2-Atividades-02-Docker-Introducao/blob/main/images/docker-desktop.png)
 
 [texto](url)
 
